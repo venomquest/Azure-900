@@ -1,0 +1,3 @@
+- You and the cloud provider share responsibility
+- Your choices determine how much responsibility you have
+- Cloud providers don't take responsibility for everything
